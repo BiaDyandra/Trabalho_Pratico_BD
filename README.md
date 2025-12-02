@@ -33,5 +33,5 @@ Projeto desenvolvido pelos discentes:
 | Nome | Perfil | Contato |
 | :--- | :--- | :--- |
 | Bianca Dyandra R. G. de Farias  | BiaDyandra | Biancagfarias@gmail.com |
-| João Victor Fernandes Rocha  |  | Joaovictor.rocha@sou.unifal-mg.edu.br | 
-| Natan Brito Silva  | -- |  |
+| João Victor Fernandes Rocha  | JoaoVictorCdm | Joaovictor.rocha@sou.unifal-mg.edu.br | 
+| Natan Brito Silva  | Natan-Silva-hub|  natan.silva@sou.unifal-mg.edu.br|
